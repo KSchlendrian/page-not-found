@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  background-image: url(../img/strand.jpg);
+  background-size: cover;
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5rem;
+  display: inline-block;
+  color: white;
+  background-color: rgb(128, 128, 128, 0.2);
+  padding: 2rem 3rem;
+  margin-top: 25vh;
+}
